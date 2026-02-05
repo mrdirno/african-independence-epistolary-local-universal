@@ -1,0 +1,160 @@
+{
+  "book_id": "african_independence_epistolary_local_universal",
+  "title": "The House on the Ridge",
+  "tagline": "A key, a letter, and a nation's silence waiting to be broken.",
+  "target_words": 70000,
+  "actual_words": 71198,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Inheritance vs. Identity",
+    "The Sound of Silence",
+    "The Architecture of Independence",
+    "Letters as Ghosts of the Future"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Blue Aerogramme",
+      "words": 2966
+    },
+    {
+      "ch": 2,
+      "title": "The Key in the Palm",
+      "words": 2966
+    },
+    {
+      "ch": 3,
+      "title": "The Whisper in the Bar",
+      "words": 2966
+    },
+    {
+      "ch": 4,
+      "title": "The Road to Aburi",
+      "words": 2966
+    },
+    {
+      "ch": 5,
+      "title": "The Flamboyant Tree",
+      "words": 2966
+    },
+    {
+      "ch": 6,
+      "title": "The First Door",
+      "words": 2966
+    },
+    {
+      "ch": 7,
+      "title": "Dust and Memory",
+      "words": 2966
+    },
+    {
+      "ch": 8,
+      "title": "Kwame's First Letter",
+      "words": 2966
+    },
+    {
+      "ch": 9,
+      "title": "The Sound of Wind",
+      "words": 2966
+    },
+    {
+      "ch": 10,
+      "title": "Ama's Visit",
+      "words": 2966
+    },
+    {
+      "ch": 11,
+      "title": "The Journalists Return",
+      "words": 2966
+    },
+    {
+      "ch": 12,
+      "title": "The Father's Notebook",
+      "words": 2966
+    },
+    {
+      "ch": 13,
+      "title": "The Mechanics of a Nation",
+      "words": 2966
+    },
+    {
+      "ch": 14,
+      "title": "London's Grey Sigh",
+      "words": 2966
+    },
+    {
+      "ch": 15,
+      "title": "The Unflowering Tree",
+      "words": 2966
+    },
+    {
+      "ch": 16,
+      "title": "The Chief's Dispute",
+      "words": 2966
+    },
+    {
+      "ch": 17,
+      "title": "A Philosophy of Rain",
+      "words": 2966
+    },
+    {
+      "ch": 18,
+      "title": "The Generator's Heartbeat",
+      "words": 2966
+    },
+    {
+      "ch": 19,
+      "title": "The Ridge's Breath",
+      "words": 2966
+    },
+    {
+      "ch": 20,
+      "title": "The Second Key",
+      "words": 2966
+    },
+    {
+      "ch": 21,
+      "title": "Ceremony and Track",
+      "words": 2966
+    },
+    {
+      "ch": 22,
+      "title": "The Argument to Finish",
+      "words": 2966
+    },
+    {
+      "ch": 23,
+      "title": "Avocados Like Fists",
+      "words": 2966
+    },
+    {
+      "ch": 24,
+      "title": "The First Sound",
+      "words": 2970
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Ama to Nii, describing a day at the hospital where the 'mechanics' of the new nation are failing or succeeding.",
+      "Compose Kwame's next aerogramme, written after he hears a specific piece of news about Ghana's independence from a London newspaper.",
+      "Describe the first visitor to Nii's house who is not Ama—a neighbor, a local official, a stranger—and the conversation that unfolds on the veranda.",
+      "Write the 'ghost-voice' of Nii's father, a memory or impression triggered by a specific object found in a drawer of the house."
+    ],
+    "technical": [
+      "Build an interactive map tracing the journey of the blue aerogramme from London to Accra, with layers showing postal routes, political borders of the time, and weather patterns.",
+      "Create a 'Soundscape of Silence' generator that mixes ambient sounds from the novel (generator thrum, Aburi birds, bar chatter, coastal waves) allowing users to compose the 'sound' of a living or dying house."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "James Baldwin",
+      "Virginia Woolf",
+      "Wole Soyinka"
+    ]
+  },
+  "cover_prompt": "A single, ornate brass key rests on a weathered, unopened letter, its paper yellowed with age and the wax seal bearing the faint imprint of a lion, placed upon the sun-warmed, cracked concrete ledge of a modernist, mid-century African government building, [atmospheric setting with mood-appropriate details], in the atmospheric style of Lynette Yiadom-Boakye's evocative portraiture and the architectural precision of François Halard, [book cover framing, centered composition, dramatic angle], with dramatic chiaroscuro lighting casting long, symbolic shadows and a color palette of burnt ochre, archival sepia, deep indigo, and the stark white of the paper, [quality enforcers], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
