@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The letter arrived on a Tuesday, smelling of diesel and distant rain. I found it jammed between the rusted bars of our gate, the blue aerogramme thin as a dragonfly’s wing, already wilting in the Accra sun. My name was written in a hand that was both familiar and foreign: *Kofi Mensah, c/o The Sea View Lodge, Labadi Road*. No one called me Kofi anymore. Here, I was Nii. Nii, who swept the hotel’s concrete courtyard. Nii, who fetched ice for the Lebanese manager’s whiskey. Nii, who slept on a mat behind the kitchen where the generator’s thrum was a second heartbeat.
+The key was heavy, a cold iron tooth in my palm, as I stood before the door of the house my father built and never entered. Dust, red as laterite, coated the veranda; the silence was not empty but thick, a held breath. Inside, I knew, the letters began—not with my name, but with the word ‘Comrade.’ They were stacked on a desk of unvarnished cedar, each envelope a precise rectangle of white against the dark wood, a architecture of waiting. My inheritance was not the walls, but the silence they contained, and the future-ghosts those pages were about to exhale.
+
 
 I tore the edge carefully. The paper had the brittle feel of something that had travelled too far.
 
@@ -110,6 +113,8 @@ The key had opened the door. But this letter, this unexpected, breathing fragmen
 
 Outside, a breeze moved through the flamboyant tree, making the bare branches clack together like old bones. Or like applause.
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 I read the letter until the stripes of light on the floor stretched and faded to grey. I read it by the failing light, then by touch, my fingers tracing the grooves her pen had made. *…the cook, Yaa, says he cries because he misses the rain of his ancestors. I tell her he has never seen ancestral rain. She smiles at me, that smile that says ‘you see nothing, white woman.’ Perhaps she is right…*
@@ -217,6 +222,8 @@ I was left in the sudden, profound dark, the smell of exhaust slowly giving way 
 I did not pick up my mother’s letter. I left it there, a pale island on the dark wood. I walked out onto the veranda. The lights of Aburi below were few and scattered. Accra was a distant, invisible glow. I had until dawn.
 
 The bucket was tipping. What would it spill?
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
